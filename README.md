@@ -29,3 +29,4 @@ The workflow runs every 15 minutes and checks for:
 - New commits in the `master` branch
 - Changes to documentation files (`.md`, `.mdx`, files in `/docs/` directories)
 - Triggers webhook only for relevant changes
+# Force workflow refresh
